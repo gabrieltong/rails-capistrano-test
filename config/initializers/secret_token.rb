@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-RailsCapistranoTest::Application.config.secret_token = '9788cd82d1dde8b2f40de05b1f0cd77efab77fd35f79618cf1aaac2af7f8e8c5bf34b9a324bb6a5c252b1a513d61e881aa301c660b098c789cd16a00d879026b'
+RailsCapistranoTest::Application.config.secret_token = '3c7eaae51f297b84422000a3cab1d00352554f1708095924c41ea08c47babf2ce84893982d2379b5493d9b82fe54f02f5943df4aa4fd2bde46d23758e84ecd87'
